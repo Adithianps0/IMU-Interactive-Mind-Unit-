@@ -161,6 +161,6 @@ Contributions are welcome! Please feel free to fork the repository, submit pull 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-© 2024 IMU. All rights reserved.
+© 2024 IMU (Interactive Mind Unit ). All rights reserved.
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project, provided that the original author is credited. No warranty is provided with this software. Use at your own risk.
