@@ -1,0 +1,157 @@
+{
+    "emotions": {
+        "happy": {
+            "description": "A state of joy and contentment.",
+            "intensity": 70,
+            "contexts": [
+                "casual",
+                "personal",
+                "routine"
+            ]
+        },
+        "sad": {
+            "description": "A state of unhappiness and sorrow.",
+            "intensity": 60,
+            "contexts": [
+                "personal",
+                "urgent",
+                "intense"
+            ]
+        },
+        "angry": {
+            "description": "A strong feeling of displeasure or annoyance.",
+            "intensity": 80,
+            "contexts": [
+                "urgent",
+                "intense"
+            ]
+        },
+        "fearful": {
+            "description": "An emotional response to danger or threat.",
+            "intensity": 70,
+            "contexts": [
+                "urgent",
+                "intense"
+            ]
+        },
+        "surprised": {
+            "description": "A reaction to something unexpected.",
+            "intensity": 50,
+            "contexts": [
+                "casual",
+                "personal",
+                "intense"
+            ]
+        },
+        "disgusted": {
+            "description": "A strong feeling of revulsion or disapproval.",
+            "intensity": 60,
+            "contexts": [
+                "urgent",
+                "intense"
+            ]
+        },
+        "neutral": {
+            "description": "An emotionally indifferent state.",
+            "intensity": 50,
+            "contexts": [
+                "casual",
+                "routine"
+            ]
+        },
+        "excited": {
+            "description": "A state of enthusiastic anticipation.",
+            "intensity": 75,
+            "contexts": [
+                "casual",
+                "personal"
+            ]
+        },
+        "bored": {
+            "description": "A state of weariness and disinterest.",
+            "intensity": 40,
+            "contexts": [
+                "routine",
+                "casual"
+            ]
+        },
+        "hopeful": {
+            "description": "A feeling of optimism and expectation.",
+            "intensity": 65,
+            "contexts": [
+                "personal",
+                "routine"
+            ]
+        },
+        "confident": {
+            "description": "A feeling of self-assurance and certainty.",
+            "intensity": 70,
+            "contexts": [
+                "personal",
+                "routine"
+            ]
+        },
+        "guilty": {
+            "description": "A feeling of remorse for a perceived wrongdoing.",
+            "intensity": 55,
+            "contexts": [
+                "personal",
+                "urgent"
+            ]
+        },
+        "jealous": {
+            "description": "A feeling of envy towards others.",
+            "intensity": 60,
+            "contexts": [
+                "personal",
+                "intense"
+            ]
+        },
+        "anxious": {
+            "description": "A state of nervousness or worry.",
+            "intensity": 65,
+            "contexts": [
+                "urgent",
+                "intense"
+            ]
+        },
+        "content": {
+            "description": "A state of satisfaction and peace.",
+            "intensity": 60,
+            "contexts": [
+                "casual",
+                "routine"
+            ]
+        },
+        "proud": {
+            "description": "A feeling of deep satisfaction with one's achievements.",
+            "intensity": 70,
+            "contexts": [
+                "personal",
+                "routine"
+            ]
+        }
+    },
+    "contexts": {
+        "casual": {
+            "description": "Everyday interactions and situations.",
+            "complexity": "simple"
+        },
+        "routine": {
+            "description": "Regular, predictable situations.",
+            "complexity": "simple"
+        },
+        "urgent": {
+            "description": "High-priority or critical situations.",
+            "complexity": "complex"
+        },
+        "personal": {
+            "description": "Emotions related to personal experiences.",
+            "complexity": "complex"
+        },
+        "intense": {
+            "description": "Highly charged emotional situations.",
+            "complexity": "complex"
+        }
+    }
+}
