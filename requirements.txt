@@ -1,0 +1,3 @@
+vaderSentiment
+tensorflow
+numpy
